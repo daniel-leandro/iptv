@@ -5,30 +5,14 @@ http://189.91.128.146:4444/udp/227.10.20.119:1234
 http://189.91.128.146:4444/udp/227.10.20.128:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN
 http://189.91.128.146:4444/udp/227.10.20.152:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN
-http://189.91.128.146:4444/udp/227.10.20.86:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="Esportes",ESPN 2
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="Esportes",ESPN 2
-http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Brasil" tvg-logo="" group-title="Esportes",ESPN Brasil
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports" tvg-logo="" group-title="Esportes",Fox Sports
 http://189.91.128.146:4444/udp/227.10.20.116:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports" tvg-logo="" group-title="Esportes",Fox Sports
-http://192.240.127.34:1935/live/cs16.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports" tvg-logo="" group-title="Esportes",Fox Sports
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="" group-title="Esportes",Fox Sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="" group-title="Esportes",Fox Sports 2
-http://189.91.128.146:4444/udp/227.10.20.132:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 3" tvg-logo="" group-title="Esportes",Fox Sports 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports Premium" tvg-logo="" group-title="Esportes",Fox Sports Premium
-https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv" tvg-logo="" group-title="Esportes",Sportv
 http://api.magiaiptv.com/live/800196/128093/p2_AD5dvVfj6egLHxBwARO
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv 3 UHD" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/a5ffe3f9-224e-4705-a068-45970abd84fd" group-title="Esportes",Sportv 3 UHD
