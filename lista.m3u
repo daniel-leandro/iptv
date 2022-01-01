@@ -1,6 +1,8 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Sports" tvg-logo="" group-title="Esportes",Band Sports
 http://189.91.128.146:4444/udp/227.10.20.119:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Combate" tvg-logo="" group-title="Esportes",Combate
+http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_720p_2M
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN
 http://189.91.128.146:4444/udp/227.10.20.128:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN
