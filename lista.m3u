@@ -23,6 +23,18 @@ http://api.magiaiptv.com/live/800196/128093/m1_vzd4MQvFCKUahymwGL_1080p
 http://api.magiaiptv.com/live/800196/128093/m1_welG1zUJ8o7XxE78c_1080p
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv2 UHD" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/0f6c3be7-f8e0-48f1-bd57-9efa2930a184" group-title="Esportes",Sportv2 UHD
 http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premiere 1" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="Esportes",PREMIERE 1 FC club+
+http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b2bbcf20-a30e-11e9-bb8f-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 2 UHD
+http://api.magiaiptv.com/live/800196/128093/m1_YfRcG1NojqwhvD7_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d08ef6f4-9e21-11e9-8062-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 3 UHD
+http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c0316954-9e21-11e9-ac1e-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 4 UHD
+http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a97a6562-9e21-11e9-8351-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 5 UHD
+http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_1080p_4M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e0e12c98-9e21-11e9-a529-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 6 UHD
+http://api.magiaiptv.com/live/800196/128093/m3_Z60O0vqPgGWm5AZ_1080p_4M
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20" tvg-logo="" group-title="(no group)",20
 http://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Neuquén" tvg-logo="" group-title="(no group)",24/7 Neuquén
@@ -3439,15 +3451,3 @@ https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
 http://162.244.81.111:1937/liveTrans/livestream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZNS" tvg-logo="https://i.imgur.com/ksuqqlm.png" group-title="(no group)",ZNS
 https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist_w1583992013_b2628000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" parent-code="" group-title="Esportes", PREMIERE 1 FC club+
-http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b2bbcf20-a30e-11e9-bb8f-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 2 UHD
-http://api.magiaiptv.com/live/800196/128093/m1_YfRcG1NojqwhvD7_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d08ef6f4-9e21-11e9-8062-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 3 UHD
-http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/c0316954-9e21-11e9-ac1e-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 4 UHD
-http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a97a6562-9e21-11e9-8351-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 5 UHD
-http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_1080p_4M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e0e12c98-9e21-11e9-a529-003048de22c4" parent-code="" group-title="Esportes", PREMIERE 6 UHD
-http://api.magiaiptv.com/live/800196/128093/m3_Z60O0vqPgGWm5AZ_1080p_4M
