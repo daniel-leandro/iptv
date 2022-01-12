@@ -1,28 +1,32 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Sports" tvg-logo="" group-title="Esportes",Band Sports
 http://189.91.128.146:4444/udp/227.10.20.119:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Sports UHD" tvg-logo="" group-title="Esportes",Band Sports UHD
+http://api.magiaiptv.com/live/800261/138645/m1_JCr0n6KJkWbSR5_1080p
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Combate" tvg-logo="" group-title="Esportes",Combate
 http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_720p_2M
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN" tvg-logo="" group-title="Esportes",DAZN
+http://api.magiaiptv.com/live/800261/138645/p2_dazn_264
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2" tvg-logo="" group-title="Esportes",DAZN 2
+http://api.magiaiptv.com/live/800261/138645/p2_dazn2hd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 3" tvg-logo="" group-title="Esportes",DAZN 3
+http://api.magiaiptv.com/live/800261/138645/p3_dazn3hd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN
 http://189.91.128.146:4444/udp/227.10.20.128:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN" tvg-logo="" group-title="Esportes",ESPN
 http://189.91.128.146:4444/udp/227.10.20.152:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2" tvg-logo="" group-title="Esportes",ESPN 2
-https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
+http://xsrv.me:8080/fabiana123/123fabiana/24658
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Brasil" tvg-logo="" group-title="Esportes",ESPN Brasil
 http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN Extra" tvg-logo="" group-title="Esportes",ESPN Extra
+http://api.magiaiptv.com/live/800261/138645/m1_ByxjeSWip68MPJsHRqZ2vku_720p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Formula 1" tvg-logo="" group-title="Esportes",Formula 1
+http://api.magiaiptv.com/live/800261/138645/m1_skysportsf1_720p
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports" tvg-logo="" group-title="Esportes",Fox Sports
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fox Sports 2" tvg-logo="" group-title="Esportes",Fox Sports 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv" tvg-logo="" group-title="Esportes",Sportv
-http://api.magiaiptv.com/live/800196/128093/p2_AD5dvVfj6egLHxBwARO
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv 3 UHD" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/a5ffe3f9-224e-4705-a068-45970abd84fd" group-title="Esportes",Sportv 3 UHD
-http://api.magiaiptv.com/live/800196/128093/m1_vzd4MQvFCKUahymwGL_1080p
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv UHD" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/95d4f8d5-dc92-4e14-8580-8e73da261c0e" group-title="Esportes",Sportv UHD
-http://api.magiaiptv.com/live/800196/128093/m1_welG1zUJ8o7XxE78c_1080p
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv2 UHD" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/0f6c3be7-f8e0-48f1-bd57-9efa2930a184" group-title="Esportes",Sportv2 UHD
-http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p
+http://api.magiaiptv.com/live/800261/138645/m2_5jJXtWhS6iP43DGF1porNTkZ_4M
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premiere 1" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d55fe648-a2ae-444a-bcea-42f866dde1f7" group-title="Esportes",Premiere 1
 http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE 2 UHD" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b2bbcf20-a30e-11e9-bb8f-003048de22c4" group-title="Esportes",PREMIERE 2 UHD
@@ -35,12 +39,22 @@ http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_1080p
 http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_1080p_4M
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PREMIERE 6 UHD" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e0e12c98-9e21-11e9-a529-003048de22c4" group-title="Esportes",PREMIERE 6 UHD
 http://api.magiaiptv.com/live/800196/128093/m3_Z60O0vqPgGWm5AZ_1080p_4M
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv" tvg-logo="" group-title="Esportes",Sportv
+http://api.magiaiptv.com/live/800196/128093/p2_AD5dvVfj6egLHxBwARO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv 2 UHD" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/0f6c3be7-f8e0-48f1-bd57-9efa2930a184" group-title="Esportes",Sportv 2 UHD
+http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv 3 UHD" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/a5ffe3f9-224e-4705-a068-45970abd84fd" group-title="Esportes",Sportv 3 UHD
+http://api.magiaiptv.com/live/800196/128093/m1_vzd4MQvFCKUahymwGL_1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv 4" tvg-logo="" group-title="Esportes",Sportv 4
+http://api.magiaiptv.com/live/800261/138645/m3_eargH0Pv9qstv4_720p_2M
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv 5" tvg-logo="" group-title="Esportes",Sportv 5
+http://api.magiaiptv.com/live/800261/138645/m3_L4QIjJorwjstv5_1080p
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportv UHD" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/95d4f8d5-dc92-4e14-8580-8e73da261c0e" group-title="Esportes",Sportv UHD
+http://api.magiaiptv.com/live/800196/128093/m1_welG1zUJ8o7XxE78c_1080p
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="" group-title="(no group)",A&E
 http://189.91.128.146:4444/udp/227.10.20.129:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC" tvg-logo="" group-title="(no group)",ABC
 http://71.187.29.220:8000/play/a08l/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/1280px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="(no group)",ABC
-https://cdn.jp.jpnettv.live/jptv/kansi_abc_asahi_720/chunklist.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/1280px-Ktv_logo.svg.png",Kansai TV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC News" tvg-logo="" group-title="(no group)",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC TV" tvg-logo="https://www.abc.com.py/pf/resources/images/OG-Image-ABC-TV.png?d=507" group-title="(no group)",ABC TV
@@ -175,10 +189,6 @@ http://189.91.128.146:4444/udp/227.10.20.130:1234
 http://189.91.128.146:4444/udp/227.10.20.93:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jovem Pan News" tvg-logo="https://i.imgur.com/JSbwvce.png" group-title="(no group)",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Law & Crime Network" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="(no group)",Law & Crime Network
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime" tvg-logo="" group-title="(no group)",Lifetime
-http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Megapix" tvg-logo="" group-title="(no group)",Megapix
 http://189.91.128.146:4444/udp/227.10.20.89:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1472px-MTV_Logo_2010.svg.png" group-title="(no group)",MTV
@@ -193,8 +203,6 @@ https://v-ny.mybtv.net/event/548/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A0
 http://71.187.29.220:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick" tvg-logo="" group-title="(no group)",Nick
 http://189.91.128.146:4444/udp/227.10.20.149:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Novo Tempo" tvg-logo="" group-title="(no group)",Novo Tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Network" tvg-logo="" group-title="(no group)",Paramount Network
 http://154.62.74.12:1935/live/smil:paramount.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Network" tvg-logo="" group-title="(no group)",Paramount Network
@@ -297,12 +305,12 @@ http://189.91.128.146:4444/udp/227.10.20.87:1234
 http://189.91.128.146:4444/udp/227.10.20.134:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Touch" tvg-logo="" group-title="(no group)",Telecine Touch
 http://189.91.128.146:4444/udp/227.10.20.136:1234
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Travel Channel" tvg-logo="https://assets.streamtest.in/logo/121/23_the-travel-channel.jpg?v=1541387674" group-title="(no group)",The Travel Channel
-http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Weather Channel" tvg-logo="https://i.imgur.com/D4vJyy9.png" group-title="(no group)",The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="" group-title="(no group)",TLC
 http://189.91.128.146:4444/udp/227.10.20.84:1234
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tooncast" tvg-logo="" group-title="(no group)",Tooncast
+http://tv.meuserver.me:8080/665473/998445/184251
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Pampa" tvg-logo="https://i.imgur.com/Mc6SOi8.png" group-title="(no group)",TV Pampa
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1" tvg-logo="" group-title="(no group)",VH1
